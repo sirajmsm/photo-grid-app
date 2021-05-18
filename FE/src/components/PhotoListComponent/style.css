@@ -1,0 +1,7 @@
+.photo-list {
+    display:block;
+    max-height: 820px;
+    max-width: 100px;
+    border: '1px solid #ddd';
+    overflow: auto;
+}
